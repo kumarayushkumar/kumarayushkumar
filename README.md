@@ -25,8 +25,3 @@
 <li><a href="https://chromewebstore.google.com/detail/commentkit/bhaflkdicaedajhkeaipecfchdonglcn?pli=1">CommentKit Chrome Extension</a></li>
 </ul>
 
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarayushkumar&show_icons=true&locale=en&layout=compact" alt="kumarayushkumar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarayushkumar&" alt="kumarayushkumar" /></p>
